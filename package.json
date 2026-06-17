@@ -71,6 +71,9 @@
 "util": "^0.12.5",
 "webcrack": "latest",
 "yargs": "^17.7.2",
-"yt-search": "^2.12.1"
-}
+"yt-search": "^2.12.1",
+ "config": {
+    "npm_config_legacy_peer_deps": true
+  }
+
 }
